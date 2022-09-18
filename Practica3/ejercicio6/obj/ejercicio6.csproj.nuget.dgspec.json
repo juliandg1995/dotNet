@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Facultad\\.Net\\puntoNet\\proyectosDotnet\\dotNet\\Practica3\\ejercicio5\\ejercicio5.csproj": {}
+    "D:\\Facultad\\.Net\\puntoNet\\proyectosDotnet\\dotNet\\Practica3\\ejercicio6\\ejercicio6.csproj": {}
   },
   "projects": {
-    "D:\\Facultad\\.Net\\puntoNet\\proyectosDotnet\\dotNet\\Practica3\\ejercicio5\\ejercicio5.csproj": {
+    "D:\\Facultad\\.Net\\puntoNet\\proyectosDotnet\\dotNet\\Practica3\\ejercicio6\\ejercicio6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Facultad\\.Net\\puntoNet\\proyectosDotnet\\dotNet\\Practica3\\ejercicio5\\ejercicio5.csproj",
-        "projectName": "ejercicio5",
-        "projectPath": "D:\\Facultad\\.Net\\puntoNet\\proyectosDotnet\\dotNet\\Practica3\\ejercicio5\\ejercicio5.csproj",
+        "projectUniqueName": "D:\\Facultad\\.Net\\puntoNet\\proyectosDotnet\\dotNet\\Practica3\\ejercicio6\\ejercicio6.csproj",
+        "projectName": "ejercicio6",
+        "projectPath": "D:\\Facultad\\.Net\\puntoNet\\proyectosDotnet\\dotNet\\Practica3\\ejercicio6\\ejercicio6.csproj",
         "packagesPath": "C:\\Users\\lejew\\.nuget\\packages\\",
-        "outputPath": "D:\\Facultad\\.Net\\puntoNet\\proyectosDotnet\\dotNet\\Practica3\\ejercicio5\\obj\\",
+        "outputPath": "D:\\Facultad\\.Net\\puntoNet\\proyectosDotnet\\dotNet\\Practica3\\ejercicio6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lejew\\AppData\\Roaming\\NuGet\\NuGet.Config"
