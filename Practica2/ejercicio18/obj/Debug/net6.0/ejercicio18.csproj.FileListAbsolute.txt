@@ -1,0 +1,15 @@
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio18\obj\Debug\net6.0\ejercicio18.csproj.AssemblyReference.cache
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio18\obj\Debug\net6.0\ejercicio18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio18\obj\Debug\net6.0\ejercicio18.AssemblyInfoInputs.cache
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio18\obj\Debug\net6.0\ejercicio18.AssemblyInfo.cs
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio18\obj\Debug\net6.0\ejercicio18.csproj.CoreCompileInputs.cache
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio18\bin\Debug\net6.0\ejercicio18.exe
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio18\bin\Debug\net6.0\ejercicio18.deps.json
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio18\bin\Debug\net6.0\ejercicio18.runtimeconfig.json
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio18\bin\Debug\net6.0\ejercicio18.dll
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio18\bin\Debug\net6.0\ejercicio18.pdb
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio18\obj\Debug\net6.0\ejercicio18.dll
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio18\obj\Debug\net6.0\refint\ejercicio18.dll
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio18\obj\Debug\net6.0\ejercicio18.pdb
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio18\obj\Debug\net6.0\ejercicio18.genruntimeconfig.cache
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio18\obj\Debug\net6.0\ref\ejercicio18.dll

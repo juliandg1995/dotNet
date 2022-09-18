@@ -1,0 +1,15 @@
+C:\Users\lejew\Desktop\proyectosDotnet\teoria1\bin\Debug\net6.0\teoria1.exe
+C:\Users\lejew\Desktop\proyectosDotnet\teoria1\bin\Debug\net6.0\teoria1.deps.json
+C:\Users\lejew\Desktop\proyectosDotnet\teoria1\bin\Debug\net6.0\teoria1.runtimeconfig.json
+C:\Users\lejew\Desktop\proyectosDotnet\teoria1\bin\Debug\net6.0\teoria1.dll
+C:\Users\lejew\Desktop\proyectosDotnet\teoria1\bin\Debug\net6.0\teoria1.pdb
+C:\Users\lejew\Desktop\proyectosDotnet\teoria1\obj\Debug\net6.0\teoria1.csproj.AssemblyReference.cache
+C:\Users\lejew\Desktop\proyectosDotnet\teoria1\obj\Debug\net6.0\teoria1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lejew\Desktop\proyectosDotnet\teoria1\obj\Debug\net6.0\teoria1.AssemblyInfoInputs.cache
+C:\Users\lejew\Desktop\proyectosDotnet\teoria1\obj\Debug\net6.0\teoria1.AssemblyInfo.cs
+C:\Users\lejew\Desktop\proyectosDotnet\teoria1\obj\Debug\net6.0\teoria1.csproj.CoreCompileInputs.cache
+C:\Users\lejew\Desktop\proyectosDotnet\teoria1\obj\Debug\net6.0\teoria1.dll
+C:\Users\lejew\Desktop\proyectosDotnet\teoria1\obj\Debug\net6.0\refint\teoria1.dll
+C:\Users\lejew\Desktop\proyectosDotnet\teoria1\obj\Debug\net6.0\teoria1.pdb
+C:\Users\lejew\Desktop\proyectosDotnet\teoria1\obj\Debug\net6.0\teoria1.genruntimeconfig.cache
+C:\Users\lejew\Desktop\proyectosDotnet\teoria1\obj\Debug\net6.0\ref\teoria1.dll

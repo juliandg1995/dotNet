@@ -1,0 +1,15 @@
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio10\obj\Debug\net6.0\ejercicio10.csproj.AssemblyReference.cache
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio10\obj\Debug\net6.0\ejercicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio10\obj\Debug\net6.0\ejercicio10.AssemblyInfoInputs.cache
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio10\obj\Debug\net6.0\ejercicio10.AssemblyInfo.cs
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio10\obj\Debug\net6.0\ejercicio10.csproj.CoreCompileInputs.cache
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio10\bin\Debug\net6.0\ejercicio10.exe
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio10\bin\Debug\net6.0\ejercicio10.deps.json
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio10\bin\Debug\net6.0\ejercicio10.runtimeconfig.json
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio10\bin\Debug\net6.0\ejercicio10.dll
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio10\bin\Debug\net6.0\ejercicio10.pdb
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio10\obj\Debug\net6.0\ejercicio10.dll
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio10\obj\Debug\net6.0\refint\ejercicio10.dll
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio10\obj\Debug\net6.0\ejercicio10.pdb
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio10\obj\Debug\net6.0\ejercicio10.genruntimeconfig.cache
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio10\obj\Debug\net6.0\ref\ejercicio10.dll

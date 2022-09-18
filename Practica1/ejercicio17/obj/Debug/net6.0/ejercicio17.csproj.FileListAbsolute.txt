@@ -1,0 +1,15 @@
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio17\obj\Debug\net6.0\ejercicio17.csproj.AssemblyReference.cache
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio17\obj\Debug\net6.0\ejercicio17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio17\obj\Debug\net6.0\ejercicio17.AssemblyInfoInputs.cache
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio17\obj\Debug\net6.0\ejercicio17.AssemblyInfo.cs
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio17\obj\Debug\net6.0\ejercicio17.csproj.CoreCompileInputs.cache
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio17\bin\Debug\net6.0\ejercicio17.exe
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio17\bin\Debug\net6.0\ejercicio17.deps.json
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio17\bin\Debug\net6.0\ejercicio17.runtimeconfig.json
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio17\bin\Debug\net6.0\ejercicio17.dll
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio17\bin\Debug\net6.0\ejercicio17.pdb
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio17\obj\Debug\net6.0\ejercicio17.dll
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio17\obj\Debug\net6.0\refint\ejercicio17.dll
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio17\obj\Debug\net6.0\ejercicio17.pdb
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio17\obj\Debug\net6.0\ejercicio17.genruntimeconfig.cache
+C:\Users\lejew\Desktop\proyectosDotnet\Practica1\ejercicio17\obj\Debug\net6.0\ref\ejercicio17.dll

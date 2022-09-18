@@ -1,0 +1,15 @@
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio11\bin\Debug\net6.0\ejercicio11.exe
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio11\bin\Debug\net6.0\ejercicio11.deps.json
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio11\bin\Debug\net6.0\ejercicio11.runtimeconfig.json
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio11\bin\Debug\net6.0\ejercicio11.dll
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio11\bin\Debug\net6.0\ejercicio11.pdb
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio11\obj\Debug\net6.0\ejercicio11.csproj.AssemblyReference.cache
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio11\obj\Debug\net6.0\ejercicio11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio11\obj\Debug\net6.0\ejercicio11.AssemblyInfoInputs.cache
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio11\obj\Debug\net6.0\ejercicio11.AssemblyInfo.cs
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio11\obj\Debug\net6.0\ejercicio11.csproj.CoreCompileInputs.cache
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio11\obj\Debug\net6.0\ejercicio11.dll
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio11\obj\Debug\net6.0\refint\ejercicio11.dll
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio11\obj\Debug\net6.0\ejercicio11.pdb
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio11\obj\Debug\net6.0\ejercicio11.genruntimeconfig.cache
+C:\Users\lejew\Desktop\proyectosDotnet\Practica2\ejercicio11\obj\Debug\net6.0\ref\ejercicio11.dll
