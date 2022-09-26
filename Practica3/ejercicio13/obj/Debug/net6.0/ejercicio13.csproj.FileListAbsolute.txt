@@ -1,0 +1,15 @@
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio13\obj\Debug\net6.0\ejercicio13.csproj.AssemblyReference.cache
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio13\obj\Debug\net6.0\ejercicio13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio13\obj\Debug\net6.0\ejercicio13.AssemblyInfoInputs.cache
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio13\obj\Debug\net6.0\ejercicio13.AssemblyInfo.cs
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio13\obj\Debug\net6.0\ejercicio13.csproj.CoreCompileInputs.cache
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio13\bin\Debug\net6.0\ejercicio13.exe
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio13\bin\Debug\net6.0\ejercicio13.deps.json
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio13\bin\Debug\net6.0\ejercicio13.runtimeconfig.json
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio13\bin\Debug\net6.0\ejercicio13.dll
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio13\bin\Debug\net6.0\ejercicio13.pdb
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio13\obj\Debug\net6.0\ejercicio13.dll
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio13\obj\Debug\net6.0\refint\ejercicio13.dll
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio13\obj\Debug\net6.0\ejercicio13.pdb
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio13\obj\Debug\net6.0\ejercicio13.genruntimeconfig.cache
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio13\obj\Debug\net6.0\ref\ejercicio13.dll

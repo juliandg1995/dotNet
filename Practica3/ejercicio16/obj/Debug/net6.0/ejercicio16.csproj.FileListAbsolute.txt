@@ -1,0 +1,15 @@
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio16\bin\Debug\net6.0\ejercicio16.exe
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio16\bin\Debug\net6.0\ejercicio16.deps.json
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio16\bin\Debug\net6.0\ejercicio16.runtimeconfig.json
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio16\bin\Debug\net6.0\ejercicio16.dll
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio16\bin\Debug\net6.0\ejercicio16.pdb
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio16\obj\Debug\net6.0\ejercicio16.csproj.AssemblyReference.cache
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio16\obj\Debug\net6.0\ejercicio16.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio16\obj\Debug\net6.0\ejercicio16.AssemblyInfoInputs.cache
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio16\obj\Debug\net6.0\ejercicio16.AssemblyInfo.cs
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio16\obj\Debug\net6.0\ejercicio16.csproj.CoreCompileInputs.cache
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio16\obj\Debug\net6.0\ejercicio16.dll
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio16\obj\Debug\net6.0\refint\ejercicio16.dll
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio16\obj\Debug\net6.0\ejercicio16.pdb
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio16\obj\Debug\net6.0\ejercicio16.genruntimeconfig.cache
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\ejercicio16\obj\Debug\net6.0\ref\ejercicio16.dll

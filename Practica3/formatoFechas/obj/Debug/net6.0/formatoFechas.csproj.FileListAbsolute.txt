@@ -1,0 +1,15 @@
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\formatoFechas\bin\Debug\net6.0\formatoFechas.exe
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\formatoFechas\bin\Debug\net6.0\formatoFechas.deps.json
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\formatoFechas\bin\Debug\net6.0\formatoFechas.runtimeconfig.json
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\formatoFechas\bin\Debug\net6.0\formatoFechas.dll
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\formatoFechas\bin\Debug\net6.0\formatoFechas.pdb
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\formatoFechas\obj\Debug\net6.0\formatoFechas.csproj.AssemblyReference.cache
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\formatoFechas\obj\Debug\net6.0\formatoFechas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\formatoFechas\obj\Debug\net6.0\formatoFechas.AssemblyInfoInputs.cache
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\formatoFechas\obj\Debug\net6.0\formatoFechas.AssemblyInfo.cs
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\formatoFechas\obj\Debug\net6.0\formatoFechas.csproj.CoreCompileInputs.cache
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\formatoFechas\obj\Debug\net6.0\formatoFechas.dll
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\formatoFechas\obj\Debug\net6.0\refint\formatoFechas.dll
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\formatoFechas\obj\Debug\net6.0\formatoFechas.pdb
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\formatoFechas\obj\Debug\net6.0\formatoFechas.genruntimeconfig.cache
+D:\Facultad\.Net\puntoNet\proyectosDotnet\dotNet\Practica3\formatoFechas\obj\Debug\net6.0\ref\formatoFechas.dll
